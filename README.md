@@ -50,15 +50,7 @@ mysql> show tables;
 mysql> select * from users;
 mysql> exit
 
-# Ejecutar Java-App - Preferir que la IDE detecte el proyecto Java, usar solo en caso de que no. 
-Utilizar GitPod en lugar de CodeSpaces.
+# Ejecutar Java-App 
 
-cd app/build/classes/java/main
-java oscarblancarte.ipd.strategy.StrategyMain
-
-```
-### Home (Codespaces)
-```
-cd /workspaces/dp-strategy
-
-```
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* En la clase principal de clic sobre el botón Play.
