@@ -50,7 +50,9 @@ mysql> show tables;
 mysql> select * from users;
 mysql> exit
 
+```
 # Ejecutar Java-App 
 
 * Cargue las Extensiones Java de VS Code correcta y completamente.
 * En la clase principal de clic sobre el botón Play.
+
